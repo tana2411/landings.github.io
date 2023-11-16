@@ -712,8 +712,8 @@
 }
 
 #menu {
-  -webkit-transform: translate(-250px, 0px);
-          transform: translate(-250px, 0px);
+  -webkit-transform: translate(-1400px, 0px);
+          transform: translate(-1400px, 0px);
   z-index: 1;
   overflow: hidden;
   position: fixed;
